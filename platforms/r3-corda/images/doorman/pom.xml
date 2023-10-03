@@ -15,15 +15,15 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <kotlin.version>1.1.60</kotlin.version>
     <junit.version>4.13.1</junit.version>
-    <vertx.version>3.5.4</vertx.version>
-    <corda.version>3.4-corda</corda.version>
+    <vertx.version>4.2.6</vertx.version>
+    <corda.version>4.5</corda.version>
     <dockerfile-maven.version>1.4.0</dockerfile-maven.version>
     <kotlin.compiler.jvmTarget>1.8</kotlin.compiler.jvmTarget>
     <jar.name>doorman</jar.name>
     <log4j.version>2.11.1</log4j.version>
     <env.CI_REGISTRY_IMAGE>local/${jar.name}</env.CI_REGISTRY_IMAGE>
     <env.CI_PIPELINE_ID>local</env.CI_PIPELINE_ID>
-    <braid.version>3.3.1</braid.version>
+    <braid.version>4.1.0</braid.version>
     <argLine>-javaagent:lib/quasar.jar</argLine>
     <npm.skip>false</npm.skip>
     <logback.version>1.2.3</logback.version>
@@ -258,7 +258,7 @@
     <dependency>
       <groupId>org.jetbrains.exposed</groupId>
       <artifactId>exposed</artifactId>
-      <version>0.13.7</version>
+      <version>0.17.14</version>
     </dependency>
   </dependencies>
 
