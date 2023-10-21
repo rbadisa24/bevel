@@ -17,7 +17,7 @@
     <kotlin.version>1.2.71</kotlin.version>
     <junit.version>4.13.1</junit.version>
     <vertx.version>3.7.1</vertx.version>
-    <corda.version>4.1</corda.version>
+    <corda.version>4.5</corda.version>
     <dockerfile-maven.version>1.4.0</dockerfile-maven.version>
     <kotlin.compiler.jvmTarget>1.8</kotlin.compiler.jvmTarget>
     <kotlin.compiler.incremental>true</kotlin.compiler.incremental>
@@ -269,7 +269,7 @@
     <dependency>
       <groupId>org.jetbrains.exposed</groupId>
       <artifactId>exposed</artifactId>
-      <version>0.13.7</version>
+      <version>0.17.14</version>
     </dependency>
   </dependencies>
 
