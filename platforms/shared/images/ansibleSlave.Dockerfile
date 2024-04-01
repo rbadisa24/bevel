@@ -1,4 +1,4 @@
-FROM openjdk:8u181
+FROM openjdk:8u272-jdk
 
 RUN apt-get update -y && \
     DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
