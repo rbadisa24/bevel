@@ -29,7 +29,7 @@
     <argLine>-javaagent:lib/quasar.jar</argLine>
     <npm.skip>false</npm.skip>
     <logback.version>1.2.3</logback.version>
-    <flapdoodle.version>2.1.1</flapdoodle.version>
+    <flapdoodle.version>4.12.3</flapdoodle.version>
     <node.version>v8.6.0</node.version>
     <dokka.version>0.9.18</dokka.version>
   </properties>
