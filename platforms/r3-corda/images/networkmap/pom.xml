@@ -14,7 +14,7 @@
   <properties>
     <nms.version>${project.version}</nms.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <kotlin.version>1.2.71</kotlin.version>
+    <kotlin.version>1.9.24</kotlin.version>
     <junit.version>4.13.1</junit.version>
     <vertx.version>3.7.1</vertx.version>
     <corda.version>4.1</corda.version>
