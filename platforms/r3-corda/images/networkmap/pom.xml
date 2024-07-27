@@ -16,8 +16,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <kotlin.version>1.2.71</kotlin.version>
     <junit.version>4.13.1</junit.version>
-    <vertx.version>3.7.1</vertx.version>
-    <corda.version>4.1</corda.version>
+    <vertx.version>4.4.2</vertx.version>
+    <corda.version>4.12</corda.version>
     <dockerfile-maven.version>1.4.0</dockerfile-maven.version>
     <kotlin.compiler.jvmTarget>1.8</kotlin.compiler.jvmTarget>
     <kotlin.compiler.incremental>true</kotlin.compiler.incremental>
@@ -233,7 +233,7 @@
     <dependency>
       <groupId>de.undercouch</groupId>
       <artifactId>bson4jackson</artifactId>
-      <version>2.9.2</version>
+      <version>2.15.0</version>
     </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.module</groupId>
