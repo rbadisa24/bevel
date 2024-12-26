@@ -16,7 +16,7 @@
     <kotlin.version>1.1.60</kotlin.version>
     <junit.version>4.13.1</junit.version>
     <vertx.version>3.5.4</vertx.version>
-    <corda.version>3.4-corda</corda.version>
+    <corda.version>4.0</corda.version>
     <dockerfile-maven.version>1.4.0</dockerfile-maven.version>
     <kotlin.compiler.jvmTarget>1.8</kotlin.compiler.jvmTarget>
     <jar.name>doorman</jar.name>
@@ -26,7 +26,7 @@
     <braid.version>3.3.1</braid.version>
     <argLine>-javaagent:lib/quasar.jar</argLine>
     <npm.skip>false</npm.skip>
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.5.13</logback.version>
     <flapdoodle.version>2.1.1</flapdoodle.version>
   </properties>
 
